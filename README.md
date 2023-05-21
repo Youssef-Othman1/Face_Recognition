@@ -1,7 +1,7 @@
 # Face_Recognition
 This code implements face recognition using PCA and LDA techniques on the ORL dataset, achieving accurate classification results.
 
-This repository contains the code implementation for the face recognition project. The project aims to recognize subjects based on facial images using the ORL dataset. The code is organized into several steps to achieve the goal of face recognition.
+This repository contains the code implementation for the face recognition project (College Group Project). The project aims to recognize subjects based on facial images using the ORL dataset. The code is organized into several steps to achieve the goal of face recognition.
 
 ## Dataset and Format
 - The ORL dataset is downloaded from the provided link.
